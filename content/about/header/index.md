@@ -3,8 +3,8 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Hi, my name is Emily Cooper. Nice to meet you.
+  Hi, my name is Jason Wattier. Nice to meet you.
 ---
 
 <!-- this is a subheadline -->
-I'm a driven 20-something American from Chicago who moved to Paris for an unexpected job opportunity. I've been tasked with bringing an American point of view to a venerable French marketing firm. :fr:
+I am experienced professional with a background in financial accounting currently working as a data engineer at Q2 eBanking. I use Python, SQL, Spark and other tools to transform and interact with data as part of large scale implementation products for our analytics platform. 
