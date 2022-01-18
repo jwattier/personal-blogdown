@@ -11,7 +11,12 @@ categories:
 - evergreen
 ---
 
-{{< here >}}
+## Am I where I think I am?
+```{r}
+library(palmerpenguins)
+dplyr::glimpse(penguins)
+```
+
 
 ## But first, panelsets with R code chunks
 
