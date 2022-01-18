@@ -1,6 +1,6 @@
 ---
 title: "Jason Wattier"
-subtitle: "Implementation Engineer @ Q2 eBanking"
+subtitle: "Data Engineer @ Q2 eBanking"
 description: "This is my personal website."
 date: 2019-02-18T12:27:33-06:00
 images:
