@@ -7,4 +7,4 @@ headline: |
 ---
 
 <!-- this is a subheadline -->
-I am experienced professional with a background in financial accounting currently working as a data engineer at Q2 eBanking. I use Python, SQL, Spark and other tools to transform and interact with data as part of large scale implementation products for our analytics platform. 
+I am experienced professional with a background in financial accounting currently working as a data engineer at Q2 eBanking. I use Python, SQL, Spark and other tools to transform and process data as part of large scale implementation projects. 
